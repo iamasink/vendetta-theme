@@ -1,6 +1,6 @@
 {
     "name": "Lily's Pink fullblack",
-    "description": "Pink black/OLED theme. 2",
+    "description": "Pink black/OLED theme.",
     "authors": [
         {
             "name": "iamasink",
@@ -78,16 +78,16 @@
             "#3d3d3d"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#696969"
+            "#1E2233"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#0000ff"
+            "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#cc0000"
+            "#1E2233"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#00ff00"
+            "#1E2233"
         ],
         "KEYBOARD": [
             "#000000"
