@@ -39,37 +39,37 @@
             "#707070"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_ACCENT": [
             "#E00BA6"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#595959"
@@ -90,7 +90,7 @@
             "#1E2233"
         ],
         "KEYBOARD": [
-            "#000000"
+            "#00ff00"
         ],
         "CHANNEL_TEXT_AREA_BACKGROUND": [
             "#e1e1e1"
@@ -102,23 +102,23 @@
             "#a3a3a3"
         ],
         "CHAT_BACKGROUND": [
-            "#000000"
+            "#00ff00"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#000000",
+        "PRIMARY": "#00ff00",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#d5d5d5",
         "PRIMARY_300": "#f097b5",
         "PRIMARY_360": "#e3e3e3",
         "PRIMARY_400": "#f097b5",
-        "PRIMARY_500": "#000000",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000",
-        "PRIMARY_900": "#000000",
+        "PRIMARY_500": "#00ff00",
+        "PRIMARY_600": "#00ff00",
+        "PRIMARY_630": "#00ff00",
+        "PRIMARY_660": "#00ff00",
+        "PRIMARY_700": "#00ff00",
+        "PRIMARY_800": "#00ff00",
+        "PRIMARY_900": "#00ff00",
         "YELLOW_300": "#FFC000",
         "BRAND_260": "#f097b5",
         "BRAND_360": "#f097b5",
@@ -126,7 +126,7 @@
         "BRAND_560": "#eb6c96",
         "GREEN_360": "#45FF49",
         "RED_400": "#FF0056",
-        "ORANGE_345": "#000000",
+        "ORANGE_345": "#00ff00",
         "RED_560": "#FF455F",
         "GREEN_345": "#45FF49",
         "BLUE_345": "#6445FF",
