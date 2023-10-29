@@ -21,7 +21,7 @@
             "#a6a6a6"
         ],
         "TEXT_DANGER": [
-            "#f097b5"
+            "#FE1262"
         ],
         "TEXT_LINK": [
             "#f097b5"
@@ -51,10 +51,10 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#f097b5"
+            "#610021"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#343434"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
